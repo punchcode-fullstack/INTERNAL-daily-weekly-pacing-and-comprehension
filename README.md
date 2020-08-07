@@ -8,32 +8,32 @@
 - Friday (lab day) 9 - 6
 
 
-WK 1:
+# WK 1:
 
-Day 1: Terminal and HTML
-Day 2: CSS
-Day 3: CSS and GitHub (basic)
-Day 4: GitHub (advanced)
+## Day 1: Terminal and HTML
+## Day 2: CSS
+## Day 3: CSS and GitHub (basic)
+## Day 4: GitHub (advanced)
 
-WK 2:
+# WK 2:
 
-Day 1: 
+## Day 1: 
     - Advanced CSS & SASS (animations, etc)
     - Responsive Web Design
-Day 2:
+## Day 2:
     - Intro to JavaScript
     - JavaScript Syntax
     - JavaScript Operators & Types
     - JavaScript Conditionals
     - Debugging & console.log()
-Day 3:
+## Day 3:
     - Objects, Arrays & Loops
     - functions
-Day 4:
+## Day 4:
     - Objects, Arrays & Loops
     - functions
 
-WK 3:
+# WK 3:
 
 
 

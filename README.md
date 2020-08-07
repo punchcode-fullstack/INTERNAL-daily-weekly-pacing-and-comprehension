@@ -18,20 +18,23 @@ Day 4: GitHub (advanced)
 WK 2:
 
 Day 1: 
-    Advanced CSS & SASS (animations, etc)
-    Responsive Web Design
+    - Advanced CSS & SASS (animations, etc)
+    - Responsive Web Design
 Day 2:
-    Intro to JavaScript
-    JavaScript Syntax
-    JavaScript Operators & Types
-    JavaScript Conditionals
-    Debugging & console.log()
+    - Intro to JavaScript
+    - JavaScript Syntax
+    - JavaScript Operators & Types
+    - JavaScript Conditionals
+    - Debugging & console.log()
 Day 3:
-    Objects, Arrays & Loops
-    functions
+    - Objects, Arrays & Loops
+    - functions
 Day 4:
-    Objects, Arrays & Loops
-    functions
+    - Objects, Arrays & Loops
+    - functions
+
+WK 3:
+
 
 
 

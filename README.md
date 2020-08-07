@@ -2,6 +2,8 @@
 
 ## in addition - this will include links to respective drills commiserate with content
 
+## NOTE: some assignments may be deprecated
+
 ### some meta info
 
 - Monday - Thursday 9-12 (3 hours) 1-6 (5 hours)
@@ -19,11 +21,13 @@
     - Terminal and HTML
 ## Day 2:
     - CSS
+    - Layout with flexbox
 ## Day 3:
-    - Layout
     - CSS and GitHub (basic)
 ## Day 4:
     - GitHub (advanced)
+
+
 
 # WK 2: (CSS and JS)
 ## Day 1: 
@@ -41,12 +45,12 @@
 ## Day 4:
     - Objects, Arrays & Loops
     - functions
+    - Iterations - forEach(), map(), reduce(), filter()
 
 # WK 3: (JS, DOM, async)
 ## Day 1: 
     - DOM API - document, querySelector, addEventListener
     - Objects, Arrays & Loops
-    - Iterations - forEach(), map(), reduce(), filter()
     - Template Literals
 ## Day 2:
     - DOM API - document, querySelector, addEventListener

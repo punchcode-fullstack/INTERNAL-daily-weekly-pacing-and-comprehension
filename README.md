@@ -14,18 +14,18 @@
 
 
 
-# WK 1:
-# Day 1:
+# WK 1: (HTML CSS GitHub)
+## Day 1:
     - Terminal and HTML
-# Day 2:
+## Day 2:
     - CSS
-# Day 3:
+## Day 3:
     - Layout
     - CSS and GitHub (basic)
-# Day 4:
+## Day 4:
     - GitHub (advanced)
 
-# WK 2:
+# WK 2: (CSS and JS)
 ## Day 1: 
     - Advanced CSS & SASS (animations, etc)
     - Responsive Web Design
@@ -42,7 +42,7 @@
     - Objects, Arrays & Loops
     - functions
 
-# WK 3:
+# WK 3: (JS, DOM, async)
 ## Day 1: 
     - DOM API - document, querySelector, addEventListener
     - Objects, Arrays & Loops
@@ -60,7 +60,7 @@
     - Ajax
     - CORs & JSONP
 
-##  WK 4:
+##  WK 4: (JS review, oop, es6)
 ## Day 1:
     - JavaScript Constructors, Prototypes & ES6 Class Syntax
     - Testing your code
@@ -70,7 +70,7 @@
 ## Day 4:
     - ?
 
-## WK 6:
+## WK 6: (npm tooling, react, redux)
 ## Day 1:
     - tooling and review
     - Intro to Webpack
@@ -88,7 +88,7 @@
     - Asynchronous & Redux
     - Redux Application Flow
 
-## WK 7:
+## WK 7: (node, express, mysql)
 ## Day 1:
     - RESTful Interfaces
     - Proxies
@@ -109,7 +109,7 @@
     - SQL 2 (new material)
     - SQL 3 (new material)
 
-## WK 8:
+## WK 8: (security, react, socket)
 ## Day 1:
     - Authentication
 ## Day 2
@@ -120,7 +120,7 @@
 ## Day 4:
     - Intro to Socket.io
 
-## WK 9:
+## WK 9: (sequelize, orm, mvc, planning)
 ## Day 1:
     - sequelize
 ## Day 2:

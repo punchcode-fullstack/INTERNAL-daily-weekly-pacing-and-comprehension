@@ -9,14 +9,16 @@
 
 
 # WK 1:
-
-## Day 1: Terminal and HTML
-## Day 2: CSS
-## Day 3: CSS and GitHub (basic)
-## Day 4: GitHub (advanced)
+# Day 1:
+    - Terminal and HTML
+# Day 2:
+    - CSS
+# Day 3:
+    - CSS and GitHub (basic)
+# Day 4:
+    - GitHub (advanced)
 
 # WK 2:
-
 ## Day 1: 
     - Advanced CSS & SASS (animations, etc)
     - Responsive Web Design
@@ -34,6 +36,9 @@
     - functions
 
 # WK 3:
+## Day 1: 
+    - Objects, Arrays & Loops
+    - Iterations - forEach(), map(), reduce(), filter()
 
 
 

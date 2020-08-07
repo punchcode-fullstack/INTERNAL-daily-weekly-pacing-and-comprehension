@@ -63,23 +63,27 @@
     - Promises
     - CORs & JSONP
 
-##  WK 4: MISSED a week here...
-## Day 1:
-## Day 2:
-## Day 3:
-## Day 4:
-
-
-##  WK 5: (JS review, oop, es6)
+##  WK 4: (JS review, oop, es6)
 ## Day 1:
     - JavaScript Constructors, Prototypes & ES6 Class Syntax
     - Testing your code
 ## Day 2:
     - tooling and review
     - Intro to Webpack
-## Day 3:
+## Day 3
+    - ?
 ## Day 4:
     - deployment
+    - review
+
+##  WK 5: MISSED a week here...
+## Day 1:
+    - review
+## Day 2:
+    - review
+## Day 3:
+    - review
+## Day 4:
     - review
 
 # WK 6: (npm tooling, react, redux)

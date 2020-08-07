@@ -27,8 +27,6 @@
 ## Day 4:
     - GitHub (advanced)
 
-
-
 # WK 2: (CSS and JS)
 ## Day 1: 
     - Advanced CSS & SASS (animations, etc)
@@ -76,6 +74,8 @@
 ## Day 4:
     - deployment
     - review
+
+##  WK 5: MISSED a week here...
 
 # WK 6: (npm tooling, react, redux)
 ## Day 1:

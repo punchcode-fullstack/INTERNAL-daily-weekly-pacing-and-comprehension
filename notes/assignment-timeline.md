@@ -60,11 +60,14 @@ https://github.com/PC-FEE-Master/invite-fullstack
 
 # WK 8:
 
-https://github.com/PC-FEE-Master/React-Todo
+https://github.com/PC-FEE-Master/React-Todo (modify BE)
 
 https://github.com/PC-FEE-Master/react-shopping-cart
+
+https://github.com/PC-FEE-Master/ryans-list (did another assignment for this due to lack of time....)
 
 
 # WK 9:
 
-https://github.com/PC-FEE-Master/ryans-list (did another assignment for this due to lack of time....)
+
+(WK 8 - WK 9 BE placeholder another two assignments)

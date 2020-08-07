@@ -111,7 +111,7 @@
 
 ## WK 8:
 ## Day 1:
-    - Authentication with React
+    - Authentication
 ## Day 2
     - Authentication with React
 

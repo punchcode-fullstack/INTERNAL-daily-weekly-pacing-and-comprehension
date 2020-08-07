@@ -70,7 +70,7 @@
 ## Day 4:
     - ?
 
-## WK 6: (npm tooling, react, redux)
+# WK 6: (npm tooling, react, redux)
 ## Day 1:
     - tooling and review
     - Intro to Webpack
@@ -88,7 +88,7 @@
     - Asynchronous & Redux
     - Redux Application Flow
 
-## WK 7: (node, express, mysql)
+# WK 7: (node, express, mysql)
 ## Day 1:
     - RESTful Interfaces
     - Proxies
@@ -109,7 +109,7 @@
     - SQL 2 (new material)
     - SQL 3 (new material)
 
-## WK 8: (security, react, socket)
+# WK 8: (security, react, socket)
 ## Day 1:
     - Authentication
 ## Day 2
@@ -120,7 +120,7 @@
 ## Day 4:
     - Intro to Socket.io
 
-## WK 9: (sequelize, orm, mvc, planning)
+# WK 9: (sequelize, orm, mvc, planning)
 ## Day 1:
     - sequelize
 ## Day 2:

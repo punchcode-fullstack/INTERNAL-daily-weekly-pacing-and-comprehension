@@ -58,6 +58,7 @@
     - ES6 Syntax
 ## Day 4:
     - Ajax
+    - Promises
     - CORs & JSONP
 
 ##  WK 4: (JS review, oop, es6)
@@ -65,15 +66,15 @@
     - JavaScript Constructors, Prototypes & ES6 Class Syntax
     - Testing your code
 ## Day 2:
-    - ?
+    - tooling and review
+    - Intro to Webpack
 ## Day 3:
 ## Day 4:
-    - ?
+    - deployment
+    - review
 
 # WK 6: (npm tooling, react, redux)
 ## Day 1:
-    - tooling and review
-    - Intro to Webpack
     - Intro to React
     - JSX Syntax
 ## Day 2:

@@ -19,6 +19,7 @@
 # WK 1: (HTML CSS GitHub)
 ## Day 1:
     - Terminal and HTML
+    - Git
 ## Day 2:
     - CSS
     - Layout with flexbox

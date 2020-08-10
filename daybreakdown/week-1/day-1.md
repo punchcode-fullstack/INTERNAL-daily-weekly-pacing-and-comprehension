@@ -111,3 +111,7 @@ total lecture time: ~ 2 hours
 ## TODOS:
 - terminal exercises
 - github exercises
+
+
+## ASSIGN:
+https://github.com/PC-FEE-Master/HTML-Day-1

@@ -1,4 +1,4 @@
-## CSS
+## CSS: 35 mins
 
 - cascading style sheets (cascade - how browser will display styles - talk about later)
 
@@ -23,9 +23,9 @@
 - padding
 - different units (px vh vw percent)
 
-pacing: 35 mins
+- specificity
 
-## CSS Box Model
+## CSS Box Model: 10 mins
 
 - box model css
     - debugging css (computed box model)
@@ -33,37 +33,34 @@ pacing: 35 mins
     - box sizing border box
 - universal selector
 
-pacing: 10 mins
 
-----
-## CSS new file and positioning
+## CSS new file and positioning: 20 mins
 - linking css to new file (link tab) IN HEAD TAG main.css
 - positioning
     - relative
     - fixed
     - absolute
 
-pacing: 20 mins
-
-## pseudo elements
+## pseudo elements: 20 mins
 - before and after
 
-pacing: 20 mins
-----
-
-maybe break up above...
 
 ### break 10 mins
 
-## flexbox intro
-pacing: ~ 40 mins
+## flexbox intro: 40 mins
 
 ### break 10 mins
 
-## practical flexbox
-pacing: 20 mins...
+## practical flexbox: 20 mins
 
+## image responsiveness: 10 mins
 
-### TODOS:
-images? (making responsive here?)
+## debugging css: 10 mins
 
+~ 3hr instruction
+
+## drills
+## lab time
+
+## ASSIGN:
+https://github.com/PC-FEE-Master/Octocats

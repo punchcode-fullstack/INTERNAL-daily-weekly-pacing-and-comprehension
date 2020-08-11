@@ -110,7 +110,7 @@ total lecture time: ~ 2 hours
 
 ## TODOS:
 - terminal exercises
-- github exercises
+- github exercises (learning lab)
 
 
 ## ASSIGN:

@@ -1,3 +1,5 @@
+## HW: Octocats: 30 mins
+
 ## layout CSS Grid: 30mins
 
 
@@ -17,6 +19,8 @@
 - branches
 - pull request
 - merge conflicts
+
+## fluid widths (percentages): 20 mins
 
 ## ASSIGN (lets add some branching into this...)
 https://github.com/PC-FEE-Master/Form-Design

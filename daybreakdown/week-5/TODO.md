@@ -7,4 +7,10 @@ https://github.com/PC-FEE-Master/Memory
 
 ## HW memory: 60 mins
 
+## intro to trello and planning...: 30 mins
+
+## wireframing: 20 mins
+
+## github pages
+
 ## review...

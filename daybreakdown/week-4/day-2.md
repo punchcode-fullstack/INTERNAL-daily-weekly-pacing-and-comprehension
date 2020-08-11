@@ -1,7 +1,7 @@
 
-## Object-Oriented-Practice: 30 mins
-
 ## code challenge: 10mins
+
+## HW Object-Oriented-Practice: 30 mins
 
 ## Closures and Scope: 30 mins
 

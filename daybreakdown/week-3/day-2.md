@@ -1,3 +1,6 @@
+
+## HW jquery DOM: 30 mins
+
 ## code challenge: 10mins
 
 ## function review: 30

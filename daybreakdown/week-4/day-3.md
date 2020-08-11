@@ -11,6 +11,3 @@
 - filter
 - find
 - includes
-
-## ASSIGN
-https://github.com/PC-FEE-Master/Wordgame

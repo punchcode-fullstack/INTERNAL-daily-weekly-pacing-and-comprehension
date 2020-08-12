@@ -5,6 +5,8 @@
 ## SQL intro CRUD: 30 mins
 ## mysql workbench: 20 mins
 
+## nouns and verbs - sentences: 20 mins (jeff)
+
 ## break: 10 mins
 
 ## database relationships: 30 mins

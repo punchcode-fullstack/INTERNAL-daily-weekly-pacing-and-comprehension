@@ -13,5 +13,10 @@
 - setInterval()
 - setTimeout()
 
+## asynchronous code continued: 30
+- callback functions
+- get requests
+- promises
+
 ## ASSIGN:
 https://github.com/PC-FEE-Master/Javascript-Clock

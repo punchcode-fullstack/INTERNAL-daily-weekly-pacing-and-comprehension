@@ -4,15 +4,18 @@
 
 ## Responsive Design (media queries): 15 mins
 
+## break: 10 mins
+
 ## sass: 20 mins
 
-## review
+## specificity: 20 mins
+
+## review: 60 mins
 - html
 - css
 - github
 - box model
 - flexbox, grid
-- specificity
 
 - paretto principle (80% 20%)
 

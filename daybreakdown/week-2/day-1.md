@@ -1,6 +1,7 @@
 ## Sk8r site: 45 mins (MAYBE MOVE)
 
-## JS variables, data-types, and access: 45 mins
+## JS variables, data-types, and access: 20 mins
+## JS non-primitives and access objects and arrays: 20 mins
 
 ## methods (primitives): 10 mins
 ## methods (non-primitives): 10 mins

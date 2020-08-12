@@ -1,6 +1,5 @@
 ## Choose your own adventure: 30 mins
 
-## methods (primitives): 10 mins
 
 ## JS loops: (primitives): 10 mins
 ## JS loops (arrays): 10 mins

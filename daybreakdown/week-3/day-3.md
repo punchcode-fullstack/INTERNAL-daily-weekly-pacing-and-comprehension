@@ -6,8 +6,6 @@
 - callback functions
 - get requests
 
-## promises: 30 mins
-
 ## function review: 30
 
 ## methods (primitives): 10 mins

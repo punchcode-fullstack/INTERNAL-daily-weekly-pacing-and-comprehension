@@ -17,5 +17,5 @@
 
 ## layout Flexbox review: 30 mins
 
-## ASSIGN:
+## ASSIGN: group project (will need to alter)
 https://github.com/PC-FEE-Master/Create-Etsy-Search-Page

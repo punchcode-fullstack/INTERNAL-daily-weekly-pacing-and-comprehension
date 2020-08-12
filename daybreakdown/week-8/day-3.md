@@ -11,3 +11,5 @@
 ## database relationships practical: 30 mins
 
 ## high level review: 30 mins
+
+## database (relational vs non-relational): 30 mins

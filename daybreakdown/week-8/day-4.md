@@ -5,3 +5,6 @@
 
 ## authentication
 ## authentication with react: 60 mins
+
+## HW todos api
+- make assignment

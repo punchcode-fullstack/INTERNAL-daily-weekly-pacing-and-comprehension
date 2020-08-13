@@ -24,8 +24,8 @@
 ## fluid widths (percentages): 20 mins
 
 ## ASSIGN (lets add some branching into this...)
-- make a branch to merge into master through a PR
-https://github.com/PC-FEE-Master/Form-Design
+- make a branch to merge into master through a PR (UPDATE REPO to include this)
+https://github.com/punchcode-fullstack/3-CSS-form-design
 
 ## game to practice grid
 https://cssgridgarden.com/

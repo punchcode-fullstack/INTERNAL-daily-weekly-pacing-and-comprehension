@@ -22,4 +22,4 @@
 ## suggested practice exercises
 
 ## ASSIGN (due on Monday)
-https://github.com/PC-FEE-Master/Sk8er-Site
+https://github.com/punchcode-fullstack/4-CSS-sk8er-site

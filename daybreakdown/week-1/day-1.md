@@ -1,4 +1,4 @@
-# terminal and HTML
+# terminal and HTML: 35 mins
 
 - what is the terminal
 - various commands
@@ -14,9 +14,7 @@ ls
 ls -la
 ```
 
-pacing ~ 35 mins
-
-## git and github
+## git and github: 25-30 mins
 - what is git?
 - various commands
 ```
@@ -41,11 +39,9 @@ git config --global --edit (MAKE SURE THIS IS SETUP with CLASS)
 - git remote add origin (links to repo)
 - if first time RSA key
 
-pacing ~ 25-30 mins
-
 ### break 10 mins
 
-## HTML
+## HTML: 30 mins
 - create folder
 - create html document
 - code .
@@ -77,9 +73,9 @@ pacing ~ 25-30 mins
 
     - semantic tag (footer) - screen readers
 
-pacing - 30 mins
 
-## HTML
+
+## HTML: 20 mins
 - newspapers (heading)
 - tags and elements
 - void elements tag (not closing tag) - an example of this is an img tag (can't put elements inside an image)
@@ -95,17 +91,22 @@ pacing - 30 mins
 - table
 - forms
 
-pacing - 20 mins
-
-### break 10 mins
 
 ## drills
 ## lab time
 
+## recap: 30 mins (asking students questions here...)
+- what is the terminal
+- what is html
+- what are the different parts of html
+- whats an element
+- whats an attribute
+- what is block level vs inline
+
 ## bonus (debugging bad html) (mention html validator)
 
 
-total lecture time: ~ 2 hours
+total lecture time: ~ 2.5 hours
 
 
 ## TODOS:
@@ -114,4 +115,4 @@ total lecture time: ~ 2 hours
 
 
 ## ASSIGN:
-https://github.com/PC-FEE-Master/HTML-Day-1
+https://github.com/punchcode-fullstack/1-HTML

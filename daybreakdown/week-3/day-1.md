@@ -23,5 +23,7 @@
 
 ## thinking in data: thought log 30 mins
 
+## total lecture time: ~170 mins
+
 ## ASSIGN:
 https://github.com/PC-FEE-Master/jQuery-DOM-Manipulation

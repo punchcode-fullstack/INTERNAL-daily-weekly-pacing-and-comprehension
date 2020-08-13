@@ -21,11 +21,16 @@
 - querySelector
 
 ## template strings for loops: 10 mins
+- make an li tag with string variable
 ## template strings array methods: 10 mins
+- make an li tag with forEach
+- make an li tag with map
 
 ## break 10 mins
 
 ## googling: 10 mins
+
+## total lecture time: ~175 mins
 
 ## ASSIGN
 https://github.com/PC-FEE-Master/Using-Array-Methods-To-Process-Data

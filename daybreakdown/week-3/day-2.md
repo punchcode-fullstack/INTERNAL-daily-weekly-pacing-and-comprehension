@@ -3,6 +3,8 @@
 
 ## code challenge: 10mins
 
+## break: 10 mins
+
 ## function review: 30
 
 
@@ -13,10 +15,16 @@
 - setInterval()
 - setTimeout()
 
-## asynchronous code continued: 30
+## asynchronous code continued (awareness of...): 20
 - callback functions
 - get requests
 - promises
+
+## JS Debugging: (console and debugger keyword): 10 mins
+
+## function review: 20
+
+## total lecture time: ~180 mins
 
 ## ASSIGN:
 https://github.com/PC-FEE-Master/Javascript-Clock

@@ -100,5 +100,7 @@
 ## practical demo: guess the number game: 10 mins
 https://codepen.io/punchcode/pen/VwaejWE
 
+## total lecture time: 160 mins
+
 ## ASSIGN:
-https://github.com/PC-FEE-Master/Choose-Your-Own-Adventure
+https://github.com/punchcode-fullstack/5-JS-choose-your-own-adventure

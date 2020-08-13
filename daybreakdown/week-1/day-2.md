@@ -59,7 +59,7 @@
 
 ## debugging css: 10 mins
 
-~ 3hr instruction
+### total lecture time: 165 mins
 
 ## drills
 ## lab time

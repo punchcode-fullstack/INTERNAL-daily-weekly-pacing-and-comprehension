@@ -2,7 +2,10 @@
 
 ## JS loops: log 1 - 10: 10 mins
 ## JS loops: (primitives): 10 mins
+- string (make a new string)
 ## JS loops (arrays): 10 mins
+- array (sum a list of numbers)
+- array (sum a list of numbers inside an object)
 
 ## break: 10 mins
 
@@ -21,5 +24,7 @@
 
 ## break: 10 mins
 
+## total lecture time: 180 mins
+
 ## ASSIGN:
-https://github.com/PC-Fullstack-PT-Jan-2020/Function-Practice?organization=PC-Fullstack-PT-Jan-2020&organization=PC-Fullstack-PT-Jan-2020
+https://github.com/punchcode-fullstack/6-JS-function-practice

@@ -4,7 +4,10 @@
 - TODO: watch mike s grid video to get quick dump of concepts
 
 ## html forms: 20 mins
+- form tag (semantic)
 - input types
+- name property
+- label
 
 ## html forms continued: 10 mins
 - query strings
@@ -16,16 +19,15 @@
 
 ## break 10 mins
 
-## Advanced GitHub: 30 mins
-- branches
-- pull request
-- merge conflicts
+## fluid widths (percentages): 10 mins
 
-## fluid widths (percentages): 20 mins
+## practical
+https://codepen.io/punchcode/pen/xxVZExQ
 
-## ASSIGN (lets add some branching into this...)
-- make a branch to merge into master through a PR (UPDATE REPO to include this)
+## better fluid width example
+https://codepen.io/sambible/pen/eZxQyP
+
+## total lecture time: 160 mins
+
+## ASSIGN
 https://github.com/punchcode-fullstack/3-CSS-form-design
-
-## game to practice grid
-https://cssgridgarden.com/

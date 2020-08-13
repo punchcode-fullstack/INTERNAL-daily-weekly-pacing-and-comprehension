@@ -1,3 +1,12 @@
+## student expectations:
+- setting tone for not being right all the time and completing everything
+- talk about mistakes I've done
+- done is better than perfect
+- failure is ok
+- asking the right questions (why is this broken and copy pasting won't cut it...)
+- bare minimum very likely won't cut it
+- if you keep griding things will click (lightbulbs come afterwards)
+
 # terminal and HTML: 35 mins
 
 - what is the terminal
@@ -62,11 +71,11 @@ git config --global --edit (MAKE SURE THIS IS SETUP with CLASS)
         - heading
         - paragraph
         - list (ul and ol)
-        - a (link) attribute (html can have different attributes) target="_blank" (dont forget http://)
+        - a (link) attribute (html can have different attributes) target="_blank" (dont forget http:// - also #id)
             - another.html
         - img src (alt) (placecage)
             - link to computer image
-        - div
+        - div (itis)
         - span
     - block level element (top to bottom)
     - inline element
@@ -105,14 +114,15 @@ git config --global --edit (MAKE SURE THIS IS SETUP with CLASS)
 
 ## bonus (debugging bad html) (mention html validator)
 
-
-total lecture time: ~ 2.5 hours
+### total lecture time: ~ 155 mins
 
 
 ## TODOS:
 - terminal exercises
 - github exercises (learning lab)
 
+## practical demo
+https://codepen.io/punchcode/pen/NWNxrEr?editors=1000
 
 ## ASSIGN:
 https://github.com/punchcode-fullstack/1-HTML

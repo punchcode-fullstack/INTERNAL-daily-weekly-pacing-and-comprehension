@@ -1,24 +1,104 @@
-## Sk8r site: 45 mins (MAYBE MOVE)
+## Sk8r site: 45 mins (MOVE THIS REVIEW...)
 
 ## JS variables, data-types, and access: 20 mins
+- including js into your html file
+- what is js
+    - the "muscle" of a web page (listening to events like button clicks, google maps, browser games, annoying popup ads)
+    - generally the code runs top to bottom
+- variables
+    - var, let, const
+    - a variable is "named storage" holds a value
+    - using an equal sign "called the assignment operator"
+    - what is a keyword
+- data types
+    - primitives
+    - number (decimals, whole numbers)
+    - string - 0 indexed
+    - boolean
+    - null (represents an empty value)
+    - undefined (represent no value)
+    - object
+    - array
+    - big int (not covering today)
+    - symbol (not covering today)
+
 ## JS non-primitives and access objects and arrays: 20 mins
+- objects (the why of objects - represent a single thing- "a cup" or "a person")
+    - dot notation
+    - bracket notation
+    - nested object access
+- arrays (the why of arrays - grocery list)
+    - 0 indexed
+    - length
+    - bracket notation
+    - last item in array
 
-## methods (primitives): 10 mins
-## methods (non-primitives): 10 mins
+## operators: 20 mins (primitives and non-primitives) THEY produce a value
+    - assignment (=)
+    - arithmetic (++, --, *)
+    - comparison (== vs ===, >, <, >=, etc..)
+    - logical && || !
+    - !=
+    - ternary
+    - unary (typeof)
 
-# break 10 mins
-
-## operators (primitives): 10 mins
-## operators (non-primitives): 10 mins
+# break: 10 mins
 
 ## JS Conditional statements: (primitives) 10 mins
-## JS Conditional statements (non-primitives) 10 mins
+    - logical forks in the road
+    - truthy vs falsey values
+    - if else if else
 
-## JS Debugging: 10 mins (console and debugger keyword)
+## methods (primitives and non): 10 mins
+    - includes
+    - charAt
+    - includes on array
 
-# break 10 mins
+## JS Conditional statements (non-primitives): 10 mins
+
+## JS Debugging: (console and debugger keyword): 10 mins 
+
+# break: 10 mins
+
+## recap: 30 mins (asking students questions here...)
+    - variables
+        - what is a variable?
+    - data types
+        - what kinds of data can be stored in a variable?
+    - object access
+        - grab nested object
+    - array access
+        - grab first item in array
+        - grab last item in array
+        - grab 3rd item in array
+    - string access
+        - first item in string
+        - last item in string
+    - truthy vs falsey values
+        - is 0 truthy
+        - is 1 truthy
+        - is '' truthy
+        - is null truthy
+    - operators
+        - take first and last name to make full name (+)
+        - add one to a number
+        - subtract one from a number
+        - multiply two numbers
+        - check if numbers match
+        - check if number kinda equals a string
+    - conditional statements
+        - check if string is empty
+        - check if name is at least 3 characters
+        - check if array is empty
+        - check if array has 5 items
 
 ## JS Confirm Link Prompt: 10 mins
+    - mention this is part of the browser api (Application Programming Interface)
+
+## break: 10 mins
+
+## practical demo: guess the number game: 10 mins
+https://codepen.io/punchcode/pen/VwaejWE
 
 ## ASSIGN:
 https://github.com/PC-FEE-Master/Choose-Your-Own-Adventure

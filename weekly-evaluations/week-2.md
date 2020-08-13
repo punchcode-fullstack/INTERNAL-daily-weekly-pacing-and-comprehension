@@ -4,10 +4,16 @@
 - what is a keyword
 - what is a variable
 - what is an operator
+    - unary
+    - binary
+    - ternary
+- what is ternary
 - give some examples of operators
 - what is a primitive value
 - what is a string
 - what is a boolean
+- what is a "truthy" or "falsey" value
+- name all falsey values
 - what is an object
 - what is an array
 - what is a conditional statement

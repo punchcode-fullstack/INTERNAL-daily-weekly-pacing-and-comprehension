@@ -1,6 +1,6 @@
 ## Choose your own adventure: 30 mins
 
-
+## JS loops: log 1 - 10: 10 mins
 ## JS loops: (primitives): 10 mins
 ## JS loops (arrays): 10 mins
 

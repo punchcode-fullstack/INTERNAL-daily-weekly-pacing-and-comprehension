@@ -1,6 +1,7 @@
 ## HW: Octocats: 30 mins
 
 ## layout CSS Grid: 30mins
+- TODO: watch mike s grid video to get quick dump of concepts
 
 ## html forms: 20 mins
 - input types

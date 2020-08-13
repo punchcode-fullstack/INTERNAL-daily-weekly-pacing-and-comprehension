@@ -1,0 +1,145 @@
+import { CodeSurfer } from "code-surfer"
+import { vsDark } from "@code-surfer/themes"
+
+# Introduction to JS
+
+---
+## What is Javascript?
+- the "muscle" of a web page (listening to events like button clicks, google maps, browser games, annoying popup ads)
+- generally the code runs top to bottom
+
+---
+
+<CodeSurfer theme={vsDark}>
+
+```js
+// a variable is "named storage" holds a value
+// using an equal sign "called the assignment operator"
+
+// var: is an example of a keyword (special meaning in programming)
+// var stands for variable - a name you give to a value
+// let and const will be dicussed soon.
+
+// this is one way to comment
+
+// a comment is code that is ignored the javascript interpreter (like in a browser for example)
+
+/*
+    This is how you can comment on multiple
+    lines....
+*/
+
+
+// variables
+
+var foo = 1
+let arr = [1,2,3]
+const str = 'John Smith'
+```
+
+</CodeSurfer>
+
+---
+<CodeSurfer theme={vsDark}>
+
+```js
+// primitives: number (decimals, whole numbers)
+var num = 5
+var num2 = 5.2
+var num3 = -4
+
+// non-primitives
+
+// object
+// array
+```
+</CodeSurfer>
+
+---
+
+<CodeSurfer theme={vsDark}>
+
+```js
+// primitives
+
+// string - 0 indexed
+var str = 'Hello'
+
+var str2 = `
+I'm a multiline string
+check this out`
+
+var str3 = "I am a double quoted string"
+
+// property access
+str.length // 5
+
+// bracket access
+str[0] // 'H'
+```
+</CodeSurfer>
+
+---
+
+<CodeSurfer theme={vsDark}>
+
+```js
+// primitives: boolean
+var bln = true
+var bln = false
+```
+</CodeSurfer>
+
+---
+
+<CodeSurfer theme={vsDark}>
+
+```js
+// primitives: null and undefined
+// null (represents an empty value)
+// undefined (represent no value)
+var x = null
+var y // undefined
+```
+</CodeSurfer>
+
+---
+
+<CodeSurfer theme={vsDark}>
+
+```js
+// primitives: symbol and bigint
+// symbol (not covering today)
+// bigint (not covering today)
+```
+</CodeSurfer>
+
+---
+
+<CodeSurfer theme={vsDark}>
+
+```js
+// non-primitives: objects
+
+// object: an object represents a thing (like a cup or a person)
+
+const person = {
+    name: 'John Snow',
+    age: 24
+}
+
+const cup = {
+    color: 'red',
+    liquid: {
+        oz: 55,
+        type: 'water'
+    }
+}
+
+// property access dot notation
+person.name // 'John Snow'
+cup.color // 'red'
+
+// how do you think we get get the type of water?
+```
+</CodeSurfer>

@@ -51,3 +51,11 @@ https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream
 
 https://visualstudio.microsoft.com/services/live-share/
 
+
+## slide resources
+
+https://github.com/jxnblk/mdx-deck
+
+https://github.com/JReinhold/mdx-deck-live-code
+
+https://github.com/pomber/code-surfer

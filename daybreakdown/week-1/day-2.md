@@ -32,6 +32,7 @@
     - margin and padding again
     - box sizing border box
 - universal selector
+    - css reset
 
 
 ## CSS new file and positioning: 20 mins
@@ -41,11 +42,11 @@
     - fixed
     - absolute
 
-## pseudo elements: 20 mins
-- before and after
-
-
 ### break 10 mins
+
+## pseudo elements and pseudo classes: 20 mins
+- before and after
+- focus
 
 ## flexbox intro: 40 mins
 
@@ -54,6 +55,7 @@
 ## practical flexbox: 20 mins
 
 ## image responsiveness: 10 mins
+    - width or height
 
 ## debugging css: 10 mins
 

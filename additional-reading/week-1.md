@@ -33,3 +33,6 @@ https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/
 ## github (interactive tutorial - command click links)
 
 https://lab.github.com/
+
+## additional challenges
+http://www.csszengarden.com/

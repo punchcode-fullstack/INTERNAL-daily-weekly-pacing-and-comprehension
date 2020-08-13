@@ -45,3 +45,9 @@ https://github.com/punchcode-fullstack
 
 https://github.com/punchcode-fullstack/DRILLS-comprehension-exercises
 
+### remote help
+
+https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream
+
+https://visualstudio.microsoft.com/services/live-share/
+

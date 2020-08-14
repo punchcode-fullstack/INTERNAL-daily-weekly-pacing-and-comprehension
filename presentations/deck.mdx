@@ -16,7 +16,7 @@ import { vsDark } from "@code-surfer/themes"
 // a variable is "named storage" holds a value
 // using an equal sign "called the assignment operator"
 
-// var: is an example of a keyword (special meaning in programming)
+// var: is an example of a "keyword" (special meaning in programming)
 // var stands for variable - a name you give to a value
 // let and const will be dicussed soon.
 
@@ -30,11 +30,24 @@ import { vsDark } from "@code-surfer/themes"
 */
 
 
-// variables
+// variables: can start with a-Z, $, or _. The standard is to have it be camelCased.
 
-var foo = 1
-let arr = [1,2,3]
-const str = 'John Smith'
+
+/*
+Reserved keywords: cant do var var for example...
+
+await break case catch class const continue debugger default delete do else enum export false ... fairly long list
+
+https://flaviocopes.com/javascript-reserved-words/
+*/
+
+let exampleVariable = 2
+
+var foo = 1 // old way to use variables
+let arr = [1,2,3] // arr can be reassigned to...
+arr = [2,3,4]
+const str = 'John Smith' // str cannot be reassigned to....
+str = 'hello' // Uncaught TypeError: Assignment to constant variable.
 ```
 
 </CodeSurfer>
@@ -64,18 +77,23 @@ var num3 = -4
 
 // string - 0 indexed
 var str = 'Hello'
-
+str.length // 5
 var str2 = `
 I'm a multiline string
 check this out`
 
 var str3 = "I am a double quoted string"
 
+var str4 = `I'm a string with a variable in it ${str}!` // I'm a string with a variable in it Hello!
+
 // property access
 str.length // 5
 
 // bracket access
 str[0] // 'H'
+
+// method access
+str.charAt(1) // 'e'
 ```
 </CodeSurfer>
 
@@ -123,10 +141,15 @@ var y // undefined
 
 // object: an object represents a thing (like a cup or a person)
 
+// objects are key value pairs
+// objects values can be strings, numbers, etc, even other objects...
+
 const person = {
     name: 'John Snow',
     age: 24
 }
+
+// a cup has a key of color - the value is red...
 
 const cup = {
     color: 'red',
@@ -322,6 +345,67 @@ const funTime = numSlices > 8 || people > 0 // true
 !0 // true
 let num = ''
 !num // true
+
+```
+</CodeSurfer>
+
+---
+<CodeSurfer theme={vsDark}>
+
+```js
+// conditional statements: forks in the road (if else if else)
+// imagine guessing a number between 1-10
+
+const userGuess = 5
+const computerAnswer = 8
+let message = null
+
+// message tells the user if they are right or not...
+
+if (userGuess === computerAnswer) {
+    message = 'you won!'
+} else if (computerAnswer < computerAnswer) {
+    message = 'too low!'
+} else {
+    message = 'too high!'
+}
+
+let noName = ''
+let nameMessage
+// !'' => true
+if (!noName) {
+    nameMessage = 'There is no name'
+}
+
+```
+</CodeSurfer>
+
+---
+<CodeSurfer theme={vsDark}>
+
+```js
+// conditional statements: also work with arrays and objects
+
+const arr = [1,2,3]
+const arr2 = []
+const person = { name: 'batman' }
+// does three equal 3
+if (arr.length === 3) {
+    // array has three items in it
+}
+// !0 => true
+if (!arr2.length) {
+    // array has 0 items in it
+}
+
+if (arr[0] === 1) {
+    // the first item in the array is 1
+}
+
+if (person.name === 'batman') [
+    // person is batman!
+]
+
 
 ```
 </CodeSurfer>

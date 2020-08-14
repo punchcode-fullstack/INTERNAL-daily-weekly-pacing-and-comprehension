@@ -140,6 +140,188 @@ const cup = {
 person.name // 'John Snow'
 cup.color // 'red'
 
-// how do you think we get get the type of water?
+// property access via bracket notation
+let prop = 'age'
+person[prop] // 24
+person['age'] // 24
+
+// how do you think we get the value of 'water'?
+```
+</CodeSurfer>
+
+---
+
+<CodeSurfer theme={vsDark}>
+
+```js
+// non-primitives: array
+
+// array: an array represents a list of things
+
+const nums = [1,2,3]
+nums.length // 3
+
+const groceries = ['Milk', 'Bread', 'Booze']
+
+// arrays can be mixed (have multiple types of data)
+
+// arrays can be accessed using bracket notation... (0 indexed)
+
+nums[0] // 1
+
+const mixed = [
+    1,
+    {
+        name: 'John'
+    },
+    true,
+    ['another array item']
+]
+
+// how can we get the value 1?
+
+// how can we get the last item?
+// how else can we get the last item? (using length?)
+```
+</CodeSurfer>
+
+---
+
+<CodeSurfer theme={vsDark}>
+
+```js
+// operators: a thing that performs some operation on one or more operands (data value) and produces a result... :/
+
+// not that scary we already saw one
+
+var num = 5 // = is the assignment operator
+
+// another operator we can use is typeof
+
+typeof 5 // 'number'
+typeof num // 'number'
+typeof 'hello' // 'string'
+
+// assignment (=)
+// arithmetic (++, --, *)
+// comparison (== vs ===, >, <, >=, etc..) will always produce a boolean value (true or false)
+// logical && || !
+// !=
+// ternary
+// unary (typeof)
+
+```
+</CodeSurfer>
+
+---
+<CodeSurfer theme={vsDark}>
+
+```js
+// operators: arithmetic
+// PEMDAS (parenthesis, exponent, multiplication, division, addition, subtraction)
+let foo = 1
+
+foo = foo + 1 // 2
+
+foo++ // 3 (foo = foo + 1)
+foo-- // 2 (foo = foo - 1)
+
+foo = 2 * 2 // 4
+foo = (5 * 4) / 2 // => 10 (20 / 2)
+
+foo *= 2 // 20 (basically is saying foo is whatever foo is multiplied by 20)
+
+4**2 // 16 (4 squared - exponent)
+foo**2 // 200
+
+// all these operators work with objects and arrays too....
+
+let obj = {
+    num: 5
+}
+obj.num++ // 6
+
+obj // {num: 6}
+
+let arr = [6]
+arr[0]++
+arr[0] // 7
+
+```
+</CodeSurfer>
+
+---
+<CodeSurfer theme={vsDark}>
+
+```js
+// operators: comparison
+
+// first things first = is assignment operator (it does not compare values...)
+// all comparison operators produce the value true or false - IMPORTANT
+
+5 > 4 // true
+4 < 5 // true
+4 >= 4 // true
+
+let foo = '5'
+foo == 5 // true (loose equality)
+foo === 5 // false (strict equality)
+
+const person = {
+    name: 'baby',
+    age: 5
+}
+person.age == 5 // true
+
+```
+</CodeSurfer>
+
+---
+<CodeSurfer theme={vsDark}>
+
+```js
+// 'truthy' vs 'falsey' values
+// all the falsey values in js below
+null
+undefined
+''
+0
+false
+
+// everything else is truthy
+
+null == false // true
+'' == false // true
+0 == false // true, etc....
+```
+
+</CodeSurfer>
+
+---
+<CodeSurfer theme={vsDark}>
+
+```js
+// operators: logical (&& || !)
+
+// and operator checks if both things are 'truthy'
+// or checks if one of the things is 'truthy'
+
+const numSlices = 8
+const people = 2    // true           and // true
+
+const enoughPizza = (numSlices === 8) && (people < 3) // true
+
+const funTime = numSlices > 8 || people > 0 // true
+
+// ! is the not operator (it flips the boolean representation of a value)
+
+!'' // true ('' is falsey)
+!true // false
+!false // true
+!1 // false
+!0 // true
+let num = ''
+!num // true
+
 ```
 </CodeSurfer>

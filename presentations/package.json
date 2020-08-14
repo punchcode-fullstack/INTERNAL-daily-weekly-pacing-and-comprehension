@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "mdx-deck deck.mdx"
+    "wk2-intro": "mdx-deck week-2/js-intro.mdx",
+    "wk2-loop-func": "mdx-deck week-2/loops-functions.mdx",
+    "build-intro": "mdx-deck build week-2/js-intro.mdx",
+    "deploy-intro": "yarn run build-intro && node deploy.js && cd public && surge"
   },
   "keywords": [],
   "author": "",

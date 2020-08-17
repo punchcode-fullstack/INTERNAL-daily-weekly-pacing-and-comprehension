@@ -17,4 +17,8 @@
 ## broiler: 10 (transitioning repo as class goes on - eliminating need for setup)
 
 ## react router: 30
+
+## total lecture time: 180 mins
+
+## assign
 https://github.com/punchcode-fullstack/19-react-contact-list

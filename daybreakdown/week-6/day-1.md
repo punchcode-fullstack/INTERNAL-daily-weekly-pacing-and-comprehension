@@ -19,6 +19,8 @@
 
 ## debugging react: 15 mins (dev tools)
 
+## total lecture time: 165 mins
+
 
 ## ASSIGN:
 https://github.com/punchcode-fullstack/17-react-like-button

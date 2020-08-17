@@ -15,6 +15,8 @@
 - style object
 - smart vs dumb
 
+## total lecture time: 180 mins
+
 ## ASSIGN:
 
 https://github.com/punchcode-fullstack/20-react-photo-albums

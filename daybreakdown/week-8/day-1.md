@@ -16,6 +16,8 @@
 
 ## debugging API with postman: 20 mins
 
+## total lecture time: 170 mins
+
 ## ASSIGN:
 
 https://github.com/punchcode-fullstack/24-invite-fullstack

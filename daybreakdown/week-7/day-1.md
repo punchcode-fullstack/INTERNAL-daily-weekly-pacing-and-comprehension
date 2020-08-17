@@ -9,10 +9,12 @@
 ## break: 10
 
 ## debugging: 30 mins
-    -  redux tools
+    - redux tools
     - requests in chrome (network tab)
     - console.log
     - debugger
+
+## total lecture time: 170 mins
 
 ## ASSIGN
 https://github.com/punchcode-fullstack/21-github-api-profile

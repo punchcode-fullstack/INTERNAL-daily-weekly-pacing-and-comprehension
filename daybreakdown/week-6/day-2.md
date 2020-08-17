@@ -21,6 +21,8 @@
 ## react: review useEffect: 15 mins
 ## react: review props 10 mins (lets make a component!)
 
+## total lecture time: 165 mins
+
 ## ASSIGN:
 
 https://github.com/punchcode-fullstack/18-react-validation

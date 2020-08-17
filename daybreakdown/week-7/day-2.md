@@ -9,5 +9,7 @@
 
 ## make a box app with redux: 30 mins
 
+## total lecture time: 170 mins
+
 ## ASSIGN
 https://github.com/punchcode-fullstack/22-react-todo

@@ -10,4 +10,4 @@
 ## make a box app with redux: 30 mins
 
 ## ASSIGN
-https://github.com/PC-FEE-Master/React-Todo
+https://github.com/punchcode-fullstack/22-react-todo

@@ -6,11 +6,18 @@
 - callback functions
 - get requests
 
+## break: 10 mins
+
 ## function review: 30
 
 ## methods (primitives): 10 mins
 ## methods (non-primitives): 10 mins
 
+## break: 10 mins
+
+## function review: 30
+
+## total lecture time: 160 mins
+
 ## ASSIGN
-[SIMPLE GET REQUEST ASSIGNMENT]
-https://jsonplaceholder.typicode.com/
+https://github.com/punchcode-fullstack/11-async-get-todos-UPDATE

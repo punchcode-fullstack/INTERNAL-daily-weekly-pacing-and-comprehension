@@ -21,9 +21,9 @@
 - value
 - default events
 
-## thinking in data: thought log 30 mins
+## thinking in data: graditude journal 30 mins
 
 ## total lecture time: ~170 mins
 
 ## ASSIGN:
-https://github.com/PC-FEE-Master/jQuery-DOM-Manipulation
+https://github.com/punchcode-fullstack/9-DOM-manipulation-REFACTOR-TO-VANILLA

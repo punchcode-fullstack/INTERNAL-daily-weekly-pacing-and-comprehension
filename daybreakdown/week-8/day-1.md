@@ -18,4 +18,4 @@
 
 ## ASSIGN:
 
-https://github.com/PC-FEE-Master/invite-fullstack
+https://github.com/punchcode-fullstack/24-invite-fullstack

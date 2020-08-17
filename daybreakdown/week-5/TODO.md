@@ -3,7 +3,7 @@
 review - practical coding assignments????
 
 ## ASSIGN:
-https://github.com/PC-FEE-Master/Memory
+https://github.com/punchcode-fullstack/16-memory-UPDATE
 
 ## HW memory: 60 mins
 

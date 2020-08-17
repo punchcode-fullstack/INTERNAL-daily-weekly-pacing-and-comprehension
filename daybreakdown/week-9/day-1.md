@@ -13,4 +13,4 @@
 ## backend planning: UML: 20 mins
 
 ## ASSIGN GROUP
-https://github.com/PC-FEE-Master/ryans-list
+https://github.com/punchcode-fullstack/27-ryans-list-UPDATE

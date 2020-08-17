@@ -7,4 +7,4 @@
 ## authentication with react: 60 mins
 
 ## HW todos api
-- make assignment
+https://github.com/punchcode-fullstack/26-todos-api-UPDATE

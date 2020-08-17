@@ -1,5 +1,7 @@
 ## Choose your own adventure: 30 mins
 
+## JS loops: while: 5 mins (mention block)
+
 ## JS loops: log 1 - 10: 10 mins
 ## JS loops: (primitives): 10 mins
 - string (make a new string)
@@ -9,11 +11,12 @@
 
 ## break: 10 mins
 
-## functions: 1 hour
+## functions: 30 mins
 - what is a function
 - writing a function (anatomy of a function)
 - declaration vs expression
 - functions are values
+- "referencing" vs "calling" a function
 
 ## break: 10 mins
 
@@ -24,7 +27,7 @@
 
 ## break: 10 mins
 
-## total lecture time: 180 mins
+## total lecture time: 150 mins
 
 ## ASSIGN:
 https://github.com/punchcode-fullstack/6-JS-function-practice

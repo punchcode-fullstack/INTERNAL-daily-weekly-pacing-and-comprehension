@@ -5,6 +5,8 @@
 ## es6: 30 mins
 - spread/rest operator
 
+## break: 10 mins
+
 
 ## oop intro: 40 mins
 
@@ -12,5 +14,9 @@
 
 ## call, apply, bind: 25mins
 
+## break: 10 mins
+
+## total lecture time: 180 mins
+
 ## ASSIGN:
-https://github.com/PC-FEE-Master/Object-Oriented-Practice
+https://github.com/punchcode-fullstack/13-JS-object-oriented-practice

@@ -16,6 +16,7 @@
 - name all falsey values
 - what is an object
 - what is an array
+- what is a block
 - what is a conditional statement
     - forks in the road (mention of comparison operators)
 - what are some ways to debug your js

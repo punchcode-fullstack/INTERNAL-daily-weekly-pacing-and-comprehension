@@ -33,4 +33,4 @@
 ## total lecture time: ~175 mins
 
 ## ASSIGN
-https://github.com/PC-FEE-Master/Using-Array-Methods-To-Process-Data
+https://github.com/punchcode-fullstack/7-JS-functional-array-methods

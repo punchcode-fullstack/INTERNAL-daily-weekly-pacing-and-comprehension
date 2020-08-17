@@ -5,4 +5,4 @@
 ## react review: 1 hour
 
 ## ASSIGN
-https://github.com/PC-FEE-Master/react-shopping-cart
+https://github.com/punchcode-fullstack/23-react-shopping-cart

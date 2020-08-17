@@ -17,4 +17,4 @@
 
 ## ASSIGN:
 
-https://github.com/PC-FEE-Master/React-Photo-Albums
+https://github.com/punchcode-fullstack/20-react-photo-albums

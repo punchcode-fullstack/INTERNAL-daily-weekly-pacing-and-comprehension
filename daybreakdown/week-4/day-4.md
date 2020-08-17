@@ -2,5 +2,5 @@
 
 ## state: 30 mins
 
-## ASSIGN:
-https://github.com/PC-FEE-Master/jQuery-Calculator
+## ASSIGN
+https://github.com/punchcode-fullstack/14-wordgame

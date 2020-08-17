@@ -11,3 +11,5 @@
 - filter
 - find
 - includes
+
+## total lecture time: 130 mins

@@ -16,4 +16,4 @@
 ## break: 10 mins
 
 ## ASSIGN
-https://github.com/PC-FEE-Master/movie-sql
+https://github.com/punchcode-fullstack/25-SQL-movie

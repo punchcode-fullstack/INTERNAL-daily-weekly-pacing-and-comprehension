@@ -17,6 +17,7 @@
 
 ## asynchronous code continued (awareness of...): 20
 - callback functions
+- json
 - get requests
 - promises
 
@@ -27,4 +28,4 @@
 ## total lecture time: ~180 mins
 
 ## ASSIGN:
-https://github.com/PC-FEE-Master/Javascript-Clock
+https://github.com/punchcode-fullstack/10-JS-clock

@@ -3,9 +3,9 @@
 
 ## HW Object-Oriented-Practice: 30 mins
 
-## Closures and Scope: 30 mins
+## break: 10 mins
 
-## thinking in data: thought log 30 mins
+## Closures and Scope: 30 mins
 
 ## breaking things down with functions: 30 mins
 
@@ -15,5 +15,7 @@
 - find
 - includes
 
-## ASSIGN
-https://github.com/PC-FEE-Master/Wordgame
+## total lecture time: 180 mins
+
+## ASSIGN:
+https://github.com/punchcode-fullstack/15-calculator-UPDATE

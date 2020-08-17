@@ -1,4 +1,4 @@
-## terminal:
+# terminal:
 - what is the terminal
 
 ## answer:

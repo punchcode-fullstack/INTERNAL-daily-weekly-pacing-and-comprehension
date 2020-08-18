@@ -1,5 +1,7 @@
 ## Choose your own adventure: 30 mins
 
+## challenge: 10 mins
+
 ## JS loops: while: 5 mins (mention block)
 
 ## JS loops: log 1 - 10: 10 mins
@@ -27,7 +29,39 @@
 
 ## break: 10 mins
 
-## total lecture time: 150 mins
+## recap: 30 mins (asking students questions here...)
+    - variables
+        - what is a variable?
+    - data types
+        - what kinds of data can be stored in a variable?
+    - object access
+        - grab nested object
+    - array access
+        - grab first item in array
+        - grab last item in array
+        - grab 3rd item in array
+    - string access
+        - first item in string
+        - last item in string
+    - truthy vs falsey values
+        - is 0 truthy
+        - is 1 truthy
+        - is '' truthy
+        - is null truthy
+    - operators
+        - take first and last name to make full name (+)
+        - add one to a number
+        - subtract one from a number
+        - multiply two numbers
+        - check if numbers match
+        - check if number kinda equals a string
+    - conditional statements
+        - check if string is empty
+        - check if name is at least 3 characters
+        - check if array is empty
+        - check if array has 5 items
+
+## total lecture time: 180 mins
 
 ## ASSIGN:
 https://github.com/punchcode-fullstack/6-JS-function-practice

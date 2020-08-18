@@ -11,8 +11,6 @@
     - camelCasing for ids
     - kebab-casing for css
 
-- debugging css (dev tools)
-
 - css properties
     - single value
     - multiple value

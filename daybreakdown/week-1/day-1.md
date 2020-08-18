@@ -114,7 +114,20 @@ git config --global --edit (MAKE SURE THIS IS SETUP with CLASS)
 
 ## bonus (debugging bad html) (mention html validator)
 
-### total lecture time: ~ 155 mins
+## commands: 10 mins
+- command z (undo)
+- command c (copy)
+- command v (paste)
+- shift command z (redo)
+- command p (go to file)
+- tab (indent)
+- shift tab (indent backwards)
+- select tab (indent selected)
+- shift command f (find in project)
+- control ` (show terminal / hide terminal)
+
+
+### total lecture time: ~ 165 mins
 
 
 ## TODOS:

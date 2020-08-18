@@ -14,5 +14,5 @@
 ## design: 30 - 60 mins (punchcode evenings with Jonathan)
 - figma (first principles of design typography, spacing, etc)
 
-## ASSIGN:
-https://github.com/punchcode-fullstack/16-memory-UPDATE
+## ASSIGN
+https://github.com/punchcode-fullstack/14-wordgame

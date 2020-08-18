@@ -10,6 +10,8 @@ It can be much faster to complete some tasks using a Terminal than with graphica
 #### Link
 https://askubuntu.com/questions/38162/what-is-a-terminal-and-how-do-i-open-and-use-it
 
+
+
 # github:
 
 ## what is github?
@@ -67,3 +69,81 @@ https://www.coredna.com/blogs/what-is-git-and-github-part-two
 A merge conflict is an event that occurs when Git is unable to automatically resolve differences in code between two commits. 
 #### Link:
 https://blog.axosoft.com/learn-git-merge-conflict/#:~:text=A%20merge%20conflict%20is%20an,merge%20commits%20without%20your%20help.
+
+
+
+# HTML
+
+## what is html?
+### answer:
+Stands for Hyper Text Markup Language
+Is the standard markup language for creating Web pages
+Describes the structure of a Web page
+Consists of a series of elements
+HTML elements tell the browser how to display the content
+#### Link:
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+
+https://www.youtube.com/watch?v=UB1O30fR-EE
+
+https://www.computerhope.com/jargon/h/html.htm
+
+History of HTML: https://www.thoughtco.com/history-of-html-1991418
+
+## what are the parts of html?
+### answer:
+a line containing HTML version information,
+
+a declarative header section (delimited by the HEAD element),
+
+a body, which contains the document's actual content. The body may be implemented by the BODY element or the FRAMESET element.
+#### Link:
+https://www.w3.org/TR/html401/struct/global.html
+
+## whats an html element?
+### answer:
+An HTML element is an individual component of an HTML document. 
+
+It represents semantics, or meaning. For example, the title element represents the title of the document. 
+
+Most HTML elements are written with a start tag (or opening tag) and an end tag (or closing tag), with content in between.
+#### Link:
+https://www.tutorialrepublic.com/html-tutorial/html-elements.php
+
+## whats an html attribute?
+### answer:
+HTML attributes are special words used inside the opening tag to control the element's behaviour.
+
+Attributes define additional characteristics or properties of the element such as width and height of an image. 
+
+Attributes are always specified in the start tag (or opening tag) and usually consists of name/value pairs like name="value". 
+
+Attribute values should always be enclosed in quotation marks.
+#### Link:
+https://www.tutorialrepublic.com/html-tutorial/html-attributes.php
+List of Attributes: https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+
+## what does it mean to be semantic html?
+### answer:
+Introduces meaning to the web page rather than just presentation. For example a <p> tag indicates that the enclosed text is a paragraph. This is both semantic and presentational because people know what paragraphs are, and browsers know how to display them.
+
+On the flip side of this equation, tags such as <b> and <i> are not semantic. They define only how the text should look (bold or italic), and don't provide any additional meaning to the markup.
+  
+#### Link:
+https://www.lifewire.com/why-use-semantic-html-3468271
+
+## whats an example of a self closing tag?
+### answer:
+An example of a self closing tag is something like a line break ( <br /> ) or the meta tag ( <meta> ).
+#### Link:
+List of HTML Self-Closing Tags: http://xahlee.info/js/html5_non-closing_tag.html
+
+## what is block level vs inline elements?
+### answer:
+A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can). (e.g. `<div>`)
+
+An inline element does not start on a new line and it only takes up as much width as necessary. (e.g. `<span>`)
+  
+An inline element cannot contain a block-level element!
+#### Link:
+https://www.w3schools.com/html/html_blocks.asp#:~:text=block%20and%20inline-,A%20block%2Dlevel%20element%20always%20starts%20on%20a%20new%20line,container%20for%20other%20HTML%20elements

@@ -1,5 +1,5 @@
 
-## HW jquery DOM: 30 mins
+## HW 9-DOM-manipulation-REFACTOR-TO-VANILLA: 30 mins
 
 ## code challenge: 10mins
 
@@ -11,18 +11,21 @@
 - setInterval()
 - setTimeout()
 
+## break: 10 mins
+
 ## practical: 30
 - lets make a stopwatch
+
+## break: 10 mins
 
 ## asynchronous code continued (awareness of...): 20
 - callback functions
 - json
-- get requests
-- promises
+- get requests (fetch)
 
-## JS Debugging: (console and debugger keyword): 10 mins
+## JS Debugging: (console and debugger keyword, breakpoints): 20 mins
 
-## total lecture time: ~160 mins
+## total lecture time: ~170 mins
 
 ## ASSIGN:
 https://github.com/punchcode-fullstack/10-JS-clock

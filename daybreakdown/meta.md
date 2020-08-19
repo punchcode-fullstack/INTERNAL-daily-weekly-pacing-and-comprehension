@@ -1,3 +1,7 @@
+## code challenge
+- easy win
+- harder...
+
 # topic: time estimate in mins
 
 # topic: time estimate in mins
@@ -9,3 +13,5 @@
 # practical example
 
 # assignment
+
+# review: ask questions

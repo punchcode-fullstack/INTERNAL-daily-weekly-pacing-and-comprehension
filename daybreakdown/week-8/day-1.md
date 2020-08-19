@@ -15,6 +15,8 @@
 ## break: 10 mins
 
 ## debugging API with postman: 20 mins
+- postman
+- vscode
 
 ## total lecture time: 170 mins
 

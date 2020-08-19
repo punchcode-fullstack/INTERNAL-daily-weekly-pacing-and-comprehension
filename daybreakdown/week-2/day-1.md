@@ -32,6 +32,7 @@
     - length
     - bracket notation
     - last item in array
+    - all types of data
 
 ## operators: 20 mins (primitives and non-primitives) THEY produce a value
     - assignment (=)
@@ -47,6 +48,11 @@
 ## JS Conditional statements: (primitives) 10 mins
     - logical forks in the road
     - truthy vs falsey values
+        - null
+        - undefined
+        - ''
+        - false
+        - 0
     - if else if else
 
 ## methods (primitives and non): 10 mins
@@ -55,8 +61,10 @@
     - includes on array
 
 ## JS Conditional statements (non-primitives): 10 mins
+     - logical && || !
 
-## JS Debugging: (console and debugger keyword): 10 mins 
+## JS Debugging: (console and debugger keyword in chrome): 10 mins 
+    - logical && || !
 
 # break: 10 mins
 

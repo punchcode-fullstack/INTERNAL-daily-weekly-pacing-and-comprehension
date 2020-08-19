@@ -1,15 +1,15 @@
 ## CSS: 35 mins
 
 - cascading style sheets (cascade - how browser will display styles - talk about later)
+- css selector (rule: value)
+    - camelCasing for ids
+    - kebab-casing for css
 
 - style tags
 - id (one el) selector
 - class (multiple els) selector also show adding multiple classes
 - tag selector
-
-- css selector (rule: value)
-    - camelCasing for ids
-    - kebab-casing for css
+- parent selector
 
 - css properties
     - single value
@@ -51,6 +51,7 @@
 ### break 10 mins
 
 ## practical flexbox: 20 mins
+    - debugging html (use that show before and after)
 
 ## image responsiveness: 10 mins
     - width or height
@@ -61,6 +62,8 @@
 
 ## drills
 ## lab time
+
+## talk about it (update image - dont freak out)
 
 ## ASSIGN:
 https://github.com/punchcode-fullstack/2-CSS-octocats

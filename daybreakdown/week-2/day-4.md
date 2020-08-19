@@ -1,6 +1,6 @@
 ## code challenge: 10mins
 
-## HW array methods to process data: 30 mins
+## HW function practice: 30 mins
 
 ## JS REVIEW: 30
     - functions: 10 mins
@@ -8,16 +8,23 @@
 
 ## break 10
 
-## Map and template strings: 30 (making a grid with flexbox or grid)
+## Map and template strings: 30 (making html... a grid with flexbox or grid)
 
-## functions: 20 mins
+## functions: 20 mins (declaration vs expression)
 - different ways to write
+- () =>
+- function () {}
+- item =>
+
 
 ## break 10
 
-## layout Flexbox review: 30 mins
+## array methods review: (a deeper look): 30 mins
+- forEach: 10 mins
+- filter: 10 mins
+- map: 10 mins
 
 ## total lecture time: ~170 mins
 
-## ASSIGN: group project (will need to alter)
-https://github.com/punchcode-fullstack/8-recreate-etsy-search-page
+## ASSIGN
+https://github.com/punchcode-fullstack/7-JS-functional-array-methods

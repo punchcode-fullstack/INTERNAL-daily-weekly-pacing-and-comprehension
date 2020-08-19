@@ -3,12 +3,15 @@
 ## function review: 30
 
 ## es6: 30 mins
-- spread/rest operator
+    - spread/rest operator
+    - set
+    - use with function (add arrays together)
 
 ## break: 10 mins
 
 
 ## oop intro: 40 mins
+- prototype chain
 
 ## classes intro: 25 mins
 

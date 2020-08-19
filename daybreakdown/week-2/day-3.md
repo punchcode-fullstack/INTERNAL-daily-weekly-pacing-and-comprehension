@@ -1,6 +1,7 @@
 ## code challenge: 10mins
 
-## function homework: 30 mins
+## function review: 30 mins
+    - for loop (reverse a string)
 
 ## array methods: 30 mins
 - forEach: 10 mins
@@ -29,8 +30,9 @@
 ## break 10 mins
 
 ## googling: 10 mins
+- incorporate keywords (js)
 
 ## total lecture time: ~175 mins
 
-## ASSIGN
-https://github.com/punchcode-fullstack/7-JS-functional-array-methods
+
+

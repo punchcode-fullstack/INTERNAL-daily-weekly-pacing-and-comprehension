@@ -3,13 +3,13 @@
 ## break: 10
 
 ## review default vs named exports: 10 mins
-## review react router: 10
-
-## useEffect and useState review: 20
+## review react router: 30
 
 ## break 10
 
 ## thinking in data: 30 mins
+    - ??? (components!!!!!)
+
 ## components!: 30 mins
 - props
 - style object

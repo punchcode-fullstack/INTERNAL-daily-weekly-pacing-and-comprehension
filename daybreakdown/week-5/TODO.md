@@ -20,3 +20,24 @@ https://github.com/punchcode-fullstack/16-memory-UPDATE
 ## github pages
 
 ## review...
+
+
+## npm and quick node intro: 15 mins
+
+## npm and node continued: 15 mins
+
+(parcel)
+
+## error handling (COVER EARLIER)
+
+## recursive functions
+
+# broiler
+
+## promise: 30 mins
+- promise all
+## async await: 30 mins
+
+## internet works... (ngrok) switch
+- index.html
+- api

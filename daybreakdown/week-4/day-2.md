@@ -6,8 +6,13 @@
 ## break: 10 mins
 
 ## Closures and Scope: 30 mins
+- let const and var
+- hoisting
 
 ## breaking things down with functions: 30 mins
+    - ???
+
+## break: 10 mins
 
 ## array methods review: 30 mins
 - map

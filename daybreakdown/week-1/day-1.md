@@ -1,4 +1,4 @@
-## student expectations:
+## student expectations: quick...
 - setting tone for not being right all the time and completing everything
 - talk about mistakes I've done
 - done is better than perfect
@@ -7,7 +7,12 @@
 - bare minimum very likely won't cut it
 - if you keep griding things will click (lightbulbs come afterwards)
 
-# terminal and HTML: 35 mins
+- talk about covid
+    - sanitize workspaces (morning and after)
+    - wear a mask if not in section
+    - hand sanitizer
+
+# terminal: 35 mins
 
 - what is the terminal
 - various commands
@@ -82,7 +87,7 @@ git config --global --edit (MAKE SURE THIS IS SETUP with CLASS)
 
     - semantic tag (footer) - screen readers
 
-
+### break 10 mins
 
 ## HTML: 20 mins
 - newspapers (heading)
@@ -96,7 +101,7 @@ git config --global --edit (MAKE SURE THIS IS SETUP with CLASS)
     - main
     - aside
     - article
-
+- select
 - table
 - forms
 

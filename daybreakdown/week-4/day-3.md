@@ -1,6 +1,6 @@
 ## code challenge: 10mins
 
-## Closures and Scope: 30 mins
+## Closures and Scope review: 30 mins
 
 ## breaking things down with functions: 30 mins
 
@@ -15,6 +15,13 @@
 
 ## pure functions: 10 mins
 
+## state: 20
+- practical example
+
 ## object and arrays (passed as reference vs primitives): 10 mins
 
-## total lecture time: 140 mins
+
+## object and arrays compare: 10 mins
+
+
+## total lecture time: 170 mins

@@ -4,7 +4,7 @@
 ## break: 10
 
 ## redux: 1 hour
-    - make a little todo app get thing... (with placeholder api)
+    - make a little todo app get thing... (with placeholder api) component
 
 ## break: 10
 

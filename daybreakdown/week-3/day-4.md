@@ -9,14 +9,17 @@
 - pull request
 - merge conflicts
 
-## thinking in data: 30 mins
+## break: 10 mins
+
+## thinking in data: 30 mins ??? (FLEXBOX)
 
 ## break: 10 mins
 
-## Breaking down a problem tasks: 20 mins
-## Breaking down a problem trello: 20 mins
+## Breaking down a problem tasks: 20 mins (features)
+- layout....
+## Breaking down a problem trello: 20 mins (accounts beforehand)
 
-## total lecture time: 160 mins
+## total lecture time: 170 mins
 
-## ASSIGN
-https://github.com/punchcode-fullstack/12-group-restaurant
+## ASSIGN: group project (will need to alter)
+https://github.com/punchcode-fullstack/8-recreate-etsy-search-page

@@ -4,6 +4,4 @@
 
 ## unit testing: 30 mins??? maybe...
 
-## review day
-
-## where to go from here...
+## planning

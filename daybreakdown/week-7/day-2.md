@@ -3,7 +3,7 @@
 
 ## break: 10 mins
 
-## redux: 1 hour
+## redux ducks: 1 hour
 
 ## break: 10 mins
 

@@ -58,10 +58,10 @@ https://codepen.io/collection/XJrMxG
 
 https://codepen.io/punchcode/pen/qBZWYLo
 
-## exercise day 2 js:
+## week 2 day 2:
 
 https://codepen.io/punchcode/pen/qBZayKR
 
-## exercise day 2 js solution
+## week 2 day 2 solution
 
 https://codepen.io/punchcode/pen/OJNRErg?editors=1010

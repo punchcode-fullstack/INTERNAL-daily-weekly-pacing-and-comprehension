@@ -9,6 +9,9 @@
 - Monday - Thursday 9-12 (3 hours) 1-6 (5 hours)
 - Friday (lab day) 9 - 6
 
+- Thursday and Friday:
+- Conversational fluency (talking about that week they are on) 10 mins
+
 #### One on ones
 - Conversational fluency (talking about that week they are on) 10 mins
 - Code drills (20 mins) and potential interview questions (depending on where students are)

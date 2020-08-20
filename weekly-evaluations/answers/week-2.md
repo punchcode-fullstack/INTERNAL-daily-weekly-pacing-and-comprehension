@@ -1,33 +1,170 @@
 ## JS
 
-- what is js
-- what is a keyword
-- what is a variable
-- what is an operator
-    - unary
-    - binary
-    - ternary
-- what is ternary
-- give some examples of operators
-- what is a primitive value
-- what is a string
-- what is a boolean
-- what is a "truthy" or "falsey" value
-- name all falsey values
-- what is an object
-- what is an array
-- what is a block
-- what is a conditional statement
-    - forks in the road (mention of comparison operators)
-- what are some ways to debug your js
-    - console.log
-- what is a method
-    - primitive
-    - non-primitive (array)
-- what is a loop
-- what is a function
-- what are some functional array methods
-    - filter
-    - for each
-    - map
-- what is a template string
+## what is js?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a keyword?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a variable?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is an operator? (unary, binary, ternary)
+### answer:
+
+OOO
+
+#### 
+LINK URL
+
+## what is ternary?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## give some examples of operators
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a primitive value?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a string?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a boolean?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a "truthy" or "falsey" value?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## name all falsey values
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is an object?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is an array?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a block?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a conditional statement?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what are some ways to debug your js?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a method?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a loop?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a function?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what are some functional array methods?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+
+## what is a template string?
+### answer:
+
+OOO
+
+#### Link
+LINK URL
+

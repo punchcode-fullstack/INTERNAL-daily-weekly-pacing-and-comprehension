@@ -58,6 +58,14 @@ https://codepen.io/collection/XJrMxG
 
 https://codepen.io/punchcode/pen/qBZWYLo
 
+## week 1 day 2:
+
+https://codepen.io/punchcode/pen/ZEWeGxJ
+
+## week 1 day 2 solution:
+
+https://codepen.io/punchcode/pen/eYZvNVG
+
 ## week 2 day 2:
 
 https://codepen.io/punchcode/pen/qBZayKR

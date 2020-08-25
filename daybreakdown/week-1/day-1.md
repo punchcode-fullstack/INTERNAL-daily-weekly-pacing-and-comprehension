@@ -87,6 +87,10 @@ git config --global --edit (MAKE SURE THIS IS SETUP with CLASS)
 
     - semantic tag (footer) - screen readers
 
+- comments <!-- comment -->
+
+style tag (bad practice)
+
 ### break 10 mins
 
 ## HTML: 20 mins

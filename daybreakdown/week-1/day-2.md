@@ -1,3 +1,6 @@
+- github cheatsheet
+- bootstrap
+
 ## CSS: 35 mins
 
 - cascading style sheets (cascade - how browser will display styles - talk about later)

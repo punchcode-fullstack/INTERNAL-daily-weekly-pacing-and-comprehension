@@ -4,10 +4,10 @@
 
 ## Responsive Design (media queries): 15 mins
 
-## break: 10 mins
+## layout CSS Grid: 30mins
+- TODO: watch mike s grid video to get quick dump of concepts
 
-## specificity: 20 mins
-- starwars
+## break: 10 mins
 
 ## break: 10 mins
 
@@ -27,6 +27,8 @@
 - paretto principle (80% 20%)
 
 ## images: regular vs background: 10 mins
+- talk about width
+- background images...
 
 ## total lecture time: 160 mins
 

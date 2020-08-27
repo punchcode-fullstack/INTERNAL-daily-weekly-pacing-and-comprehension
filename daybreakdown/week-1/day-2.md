@@ -1,6 +1,8 @@
 - github cheatsheet
 - bootstrap
 
+## code challenge: 10mins
+
 ## CSS: 35 mins
 
 - cascading style sheets (cascade - how browser will display styles - talk about later)
@@ -53,13 +55,13 @@
 
 ### break 10 mins
 
-## practical flexbox: 20 mins
+## practical flexbox: 10 mins
     - debugging html (use that show before and after)
 
-## image responsiveness: 10 mins
+## image responsiveness: 5 mins
     - width or height
 
-## debugging css: 10 mins
+## debugging css: 5 mins
 
 ### total lecture time: 165 mins
 

@@ -1,10 +1,8 @@
 ## HW: Octocats: 30 mins
     - how do I make the things go to left to right
     - how can I target an image
-    
 
-## layout CSS Grid: 30mins
-- TODO: watch mike s grid video to get quick dump of concepts
+## code challenge: 10mins    
 
 ## html forms: 20 mins
 - form tag (semantic)
@@ -18,7 +16,7 @@
 - query strings
 - fieldset
 
-## layout Flexbox review: 30 mins
+## layout Flexbox review: 30 mins (20)
 
 ## break 10 mins
 

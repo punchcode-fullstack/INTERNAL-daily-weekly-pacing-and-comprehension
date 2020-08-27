@@ -1,0 +1,27 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "contractor_app",
+            "driver": "MySQL",
+            "mysqlOptions": {
+                "authProtocol": "xprotocol"
+            },
+            "name": "mysql",
+            "password": "",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "root"
+        },
+        {
+            "askForPassword": true,
+            "database": "hex_deck",
+            "driver": "PostgreSQL",
+            "name": "cards",
+            "port": 5432,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "hexman"
+        }
+    ]
+}

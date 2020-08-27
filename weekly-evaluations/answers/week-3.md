@@ -2,11 +2,10 @@
 
 ## what is the dom?
 ### answer:
-
-OOO
+The Document Object Model (DOM) is a programming interface for HTML and XML documents. It represents the page so that programs can change the document structure, style, and content.
 
 #### Link
-LINK URL
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#:~:text=The%20Document%20Object%20Model%20(DOM)%20is%20a%20programming%20interface%20for,structure%2C%20style%2C%20and%20content.&text=The%20DOM%20is%20an%20object,scripting%20language%20such%20as%20JavaScript.
 
 ## what is classList?
 ### answer:

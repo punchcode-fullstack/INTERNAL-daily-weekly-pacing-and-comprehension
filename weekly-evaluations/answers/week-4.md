@@ -26,24 +26,21 @@ https://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/#:~:text=Ja
 
 ## what is scope?
 ### answer:
-
-OOO
+Scope is the accessibility of variables, functions, and objects in some particular part of your code during runtime. In other words, scope determines the visibility of variables and other resources in areas of your code.
 
 #### Link
-LINK URL
+https://scotch.io/tutorials/understanding-scope-in-javascript#toc-what-is-scope-
 
 ## what is a closure?
 ### answer:
-
-OOO
+A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function’s scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time.
 
 #### Link
-LINK URL
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures#:~:text=A%20closure%20is%20the%20combination,state%20(the%20lexical%20environment).&text=In%20JavaScript%2C%20closures%20are%20created,created%2C%20at%20function%20creation%20time.
 
 ## what is state?
 ### answer:
-
-OOO
+The State pattern simply says that you can say an object is in a certain state, and some of its behaviour changes accordingly. The responsibility of changing an object’s state is left entirely up to the developer.
 
 #### Link
-LINK URL
+http://jsclass.jcoglan.com/state.html#:~:text=State%20is%20an%20implementation%20of%20the%20State%20pattern%20in%20JavaScript.&text=The%20State%20pattern%20simply%20says,entirely%20up%20to%20the%20developer.

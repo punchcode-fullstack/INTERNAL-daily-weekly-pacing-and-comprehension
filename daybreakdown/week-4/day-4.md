@@ -1,27 +1,23 @@
-## code challenge: 10mins
+## code challenge: 20mins
 
-## state: 30 mins
+## classes: 30 mins
 
-## map: 30
-- if statements in map...
+## break: 10
 
-## page layout: 30 mins
-## component thinking: 10 mins
-## github: tasks???: 20
+# object and array comparison: 15 mins
 
-## Review???: 50 mins...
-- map
-- flexbox
-- grid
-- branching
-- merge conflicts (separate files)
-- GET requests
-- dont get blocked...
+## recursion: 10 mins
 
-- TODO review
+## array methods: 20 mins
 
-## total lecture time: 180 mins
+# break: 10 mins
+
+## component thinking: 5 mins
+
+## github review: 20 mins
+
+## calculator: 60 mins
 
 ## ASSIGN
-https://github.com/punchcode-fullstack/12-group-restaurant
 
+https://github.com/punchcode-fullstack/12-group-restaurant

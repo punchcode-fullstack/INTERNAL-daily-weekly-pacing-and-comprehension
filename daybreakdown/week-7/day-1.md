@@ -1,20 +1,27 @@
-
-## redux: 1 hour
+## photo albums: 60
 
 ## break: 10
 
 ## redux: 1 hour
+
     - make a little todo app get thing... (with placeholder api) component
 
 ## break: 10
 
-## debugging: 30 mins
+## debugging: 15 mins
+
     - redux tools
     - requests in chrome (network tab)
     - console.log
     - debugger
 
-## total lecture time: 170 mins
+# Promises: 35 mins
+
+- Promise.all
+- async
+
+## total lecture time: 180 mins
 
 ## ASSIGN
+
 https://github.com/punchcode-fullstack/21-github-api-profile

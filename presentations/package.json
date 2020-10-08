@@ -8,7 +8,8 @@
     "wk2-intro": "mdx-deck week-2/js-intro.mdx",
     "wk2-loop-func": "mdx-deck week-2/loops-functions.mdx",
     "build-intro": "mdx-deck build week-2/js-intro.mdx",
-    "deploy-intro": "yarn run build-intro && node deploy.js && cd public && surge"
+    "deploy-intro": "yarn run build-intro && node deploy.js && cd public && surge",
+    "react-intro": "msx-deck react/index.mdx"
   },
   "keywords": [],
   "author": "",

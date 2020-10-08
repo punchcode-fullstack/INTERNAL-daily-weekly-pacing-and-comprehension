@@ -1,6 +1,7 @@
-## HW: Like button: 30
+## HW: form: 30
 
 ## JSON server: 30
+
     - utilizing postman
     - utilizing vscode
 
@@ -15,6 +16,7 @@
 ## break 10 mins
 
 ## broiler: 10 (transitioning repo as class goes on - eliminating need for setup)
+
 - commands
 - repo
 
@@ -23,4 +25,5 @@
 ## total lecture time: 180 mins
 
 ## assign
+
 https://github.com/punchcode-fullstack/19-react-contact-list

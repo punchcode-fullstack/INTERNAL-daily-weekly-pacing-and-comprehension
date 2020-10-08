@@ -22,6 +22,7 @@
 - click events
 - classList
 - data attributes
+- event delegation
 - value
 - default events
 - event propagation

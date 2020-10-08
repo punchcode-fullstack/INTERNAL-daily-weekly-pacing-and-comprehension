@@ -10,7 +10,6 @@ https://javascript.info/intro
 
 https://javascript.info/variables
 
-
 ## data types
 
 https://javascript.info/types
@@ -52,12 +51,12 @@ https://javascript.info/logical-operators
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#String
 
 ## unary
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Unary
 
 ## conditionals
 
 https://javascript.info/ifelse
-
 
 ## further reading
 
@@ -70,6 +69,11 @@ https://javascript.info/function-basics
 ## functional array methods
 
 https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3
+
+## scope
+
+https://javascript.info/var
+https://javascript.info/closure
 
 ## DOM
 

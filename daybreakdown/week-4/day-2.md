@@ -1,26 +1,32 @@
-
 ## code challenge: 10mins
 
-## HW Object-Oriented-Practice: 30 mins
+## object review: 20
 
-## break: 10 mins
+## conditional statements: 20
 
-## Closures and Scope: 30 mins
-- let const and var
-- hoisting
+## array methods: 20
 
-## breaking things down with functions: 30 mins
-    - ???
+# break: 10 mins
 
-## break: 10 mins
+## state: 20 mins
 
-## array methods review: 30 mins
-- map
-- filter
-- find
-- includes
+    - button that changes color everytime it is clicked (array of colors, currentIndex)
+    - compare this to a bunch of if statements...
+
+## closure: 10 mins
+
+## recursion: 10 mins
+
+## DOM form review: 20 mins
+
+# break: 10 mins
+
+# prototype review: 10 mins
+
+## classes intro: 25 mins
 
 ## total lecture time: 180 mins
 
 ## ASSIGN:
+
 https://github.com/punchcode-fullstack/15-calculator-UPDATE

@@ -1,5 +1,10 @@
-- Promises
+# Promises in depth: 30 mins
 
-## Lab:
+# Exercise - marvel api: 30 mins
 
-## design: 2 hours (punchcode evenings with Jonathan)
+# Programming paradigms: 60 mins
+
+- functional
+- object oriented
+
+# ES6 Review: 30 mins

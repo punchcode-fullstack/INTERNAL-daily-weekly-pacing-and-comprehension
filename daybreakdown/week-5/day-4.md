@@ -1,7 +1,9 @@
 ## HW word game: 60...
 
-# ted talk: 2 hours
+## DOM Review: 60 mins
 
-## ASSIGN: solo (parcel)
+## Design Fundamentals: 60 mins
+
+## ASSIGN:
 
 https://github.com/punchcode-fullstack/16-memory-UPDATE

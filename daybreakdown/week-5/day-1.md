@@ -8,11 +8,14 @@
 
 ## default vs named exports: 10 mins
 
-## review:
+## review: 60 mins
 
-- functions
-- conditionals
-- DOM review
+    - operators, property access, and addition: 30 mins
+    - methods, conditionals, loops: 30 mins
+
+## Break: 10 mins
+
+## Gratitude Journal: 60 mins
 
 ## ASSIGN - UPDATE TO parcel
 

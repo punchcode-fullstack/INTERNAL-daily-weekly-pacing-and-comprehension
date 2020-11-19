@@ -1,11 +1,18 @@
-# operators, property access, and addition: 30 mins
+# state review: 20 mins
 
-# class exercises: 30 mins
+# promise review: 20 mins
 
-# methods, conditionals, loops: 30 mins
+# function review: 20 mins
 
-# class exercises: 30 mins
+# array method review: 30 mins
 
-# functions, practical examples: 30 mins
+    - find
+    - filter
+    - map
+    - reduce
+    - findIndex
+    - includes
 
-# class exercises: 30 mins
+# object review: 30 mins
+
+# DOM review: 60 mins

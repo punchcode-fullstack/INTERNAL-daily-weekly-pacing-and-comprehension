@@ -8,7 +8,11 @@
 
 ## default vs named exports: 10 mins
 
-## review
+## review:
+
+- functions
+- conditionals
+- DOM review
 
 ## ASSIGN - UPDATE TO parcel
 

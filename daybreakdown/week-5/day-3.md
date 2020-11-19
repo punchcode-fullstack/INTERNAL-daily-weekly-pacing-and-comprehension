@@ -8,3 +8,6 @@
 - object oriented
 
 # ES6 Review: 30 mins
+
+- cloning
+- destructoring

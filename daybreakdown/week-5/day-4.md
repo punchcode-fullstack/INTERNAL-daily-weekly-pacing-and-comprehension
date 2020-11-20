@@ -1,6 +1,8 @@
 ## HW word game: 60...
 
-## DOM Review: 60 mins
+## DOM Review: 30 mins
+
+## Sass: 30 mins
 
 ## How the internet works: 10 mins
 

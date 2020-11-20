@@ -1,13 +1,13 @@
-## review database relationships: 30 mins
+## database relationships (normalization 3 forms): 30 mins
 
-## database migrations: 30 mins
+## database relationships: 15 mins
 
-## websockets part 1: 30 mins
+## many to many relationship: ~20 mins
 
-# break: 10 mins
+## foreign key reference: 12 mins
 
-## websockets part 2: 30 mins
+## table analysis (chinook): 10 mins
 
-# break: 10 mins
+## rest review: 30 mins
 
-## deployment on surge: 20 mins
+## socket io intro: 40 mins

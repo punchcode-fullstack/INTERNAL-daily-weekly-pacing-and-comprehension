@@ -1,7 +1,7 @@
-## environmental variables: 10 mins
+## migrations: 30 mins
 
-## seeding data: 30 mins (fixtures, faker)
+## project scaffolding Backend: 60 mins
 
-## unit testing: 30 mins??? maybe...
+## project scaffolding Frontend: 30 mins
 
-## planning
+## planning final project: 60 mins

@@ -33,6 +33,8 @@
 
 ## total lecture time: 170 mins
 
-## ASSIGN: group project (will need to alter)
+# lecture on vscode extension: 10 mins
+
+## ASSIGN: group project
 
 https://github.com/punchcode-fullstack/8-recreate-etsy-search-page

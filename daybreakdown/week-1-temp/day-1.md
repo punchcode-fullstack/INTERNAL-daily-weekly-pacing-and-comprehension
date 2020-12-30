@@ -8,58 +8,6 @@
 - bare minimum very likely won't cut it
 - if you keep griding things will click (lightbulbs come afterwards)
 
-- talk about covid
-  - sanitize workspaces (morning and after)
-  - wear a mask if not in section
-  - hand sanitizer
-
-# terminal: 35 mins
-
-- what is the terminal
-- various commands
-
-```
-~
-pwd
-cd (relative vs absolute paths with /)
-mkdir
-rmdir
-touch
-rm (-r -f)
-ls
-ls -la
-```
-
-## git and github: 25-30 mins
-
-- what is git?
-- various commands
-
-```
-git init
-git status
-```
-
-touch file
-git add <filename>
-
-/// multiple files
-
-git add .
-
-untracked files
-
-git commit
-git push to repo
-
-git config --global --edit (MAKE SURE THIS IS SETUP with CLASS)
-
-- create repository on github (explain repo and different options)
-- git remote add origin (links to repo)
-- if first time RSA key
-
-### break 10 mins
-
 ## HTML: 30 mins
 
 - create folder
@@ -98,8 +46,6 @@ git config --global --edit (MAKE SURE THIS IS SETUP with CLASS)
 
 style tag (bad practice)
 
-### break 10 mins
-
 ## HTML: 20 mins
 
 - newspapers (heading)
@@ -117,7 +63,42 @@ style tag (bad practice)
 - table
 - forms
 
-## drills
+### break 10 mins
+
+## CSS: 35 mins
+
+- cascading style sheets (cascade - how browser will display styles - talk about later)
+- css selector (rule: value)
+
+  - camelCasing for ids
+  - kebab-casing for css
+
+- style tags
+- id (one el) selector
+- class (multiple els) selector also show adding multiple classes
+- tag selector
+- parent selector
+
+- css properties
+  - single value
+  - multiple value
+- color
+- background color
+- border
+- margin
+- padding
+- different units (px vh vw percent)
+
+- specificity
+
+## CSS Box Model: 10 mins
+
+- box model css
+  - debugging css (computed box model)
+  - margin and padding again
+  - box sizing border box
+- universal selector
+  - css reset
 
 ## lab time
 
@@ -131,19 +112,6 @@ style tag (bad practice)
 - what is block level vs inline
 
 ## bonus (debugging bad html) (mention html validator)
-
-## commands: 10 mins
-
-- command z (undo)
-- command c (copy)
-- command v (paste)
-- shift command z (redo)
-- command p (go to file)
-- tab (indent)
-- shift tab (indent backwards)
-- select tab (indent selected)
-- shift command f (find in project)
-- control ` (show terminal / hide terminal)
 
 ### total lecture time: ~ 165 mins
 
